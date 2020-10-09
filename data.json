@@ -1,7 +1,7 @@
 [{
-	image1: "https://fueradelmolde.gumlet.net/error-image-cdn/prueba/camiseta-blanca-frente.png",
-	image2: "https://fueradelmolde.gumlet.net/error-image-cdn/prueba/astronauta.jpg",
-	image3: "https://fueradelmolde.gumlet.net/error-image-cdn/prueba/cicla.jpg",
-	image4: "https://fueradelmolde.gumlet.net/error-image-cdn/prueba/circulos.jpg",
-	image5: "https://fueradelmolde.gumlet.net/error-image-cdn/prueba/jake.jpg"
+	"image1": "https://fueradelmolde.gumlet.net/error-image-cdn/prueba/camiseta-blanca-frente.png",
+	"image2": "https://fueradelmolde.gumlet.net/error-image-cdn/prueba/astronauta.jpg",
+	"image3": "https://fueradelmolde.gumlet.net/error-image-cdn/prueba/cicla.jpg",
+	"image4": "https://fueradelmolde.gumlet.net/error-image-cdn/prueba/circulos.jpg",
+	"image5": "https://fueradelmolde.gumlet.net/error-image-cdn/prueba/jake.jpg"
 }]
