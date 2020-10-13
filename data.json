@@ -4,10 +4,30 @@
 		"linkCDN": "https://fueradelmolde.gumlet.net/"
 	},
 	"imagenes": {
-		"image1": "https://fdm-dev.s3.us-east-2.amazonaws.com/media/error-image-cdn/prueba/camiseta-blanca-frente.png",
-		"image2": "https://fdm-dev.s3.us-east-2.amazonaws.com/media/error-image-cdn/prueba/astronauta.jpg",
-		"image3": "https://fdm-dev.s3.us-east-2.amazonaws.com/media/error-image-cdn/prueba/cicla.jpg",
-		"image4": "https://fdm-dev.s3.us-east-2.amazonaws.com/media/error-image-cdn/prueba/circulos.jpg",
-		"image5": "https://fdm-dev.s3.us-east-2.amazonaws.com/media/error-image-cdn/prueba/jake.jpg"
+		"image1": {
+			"link": "https://fdm-dev.s3.us-east-2.amazonaws.com/media/error-image-cdn/prueba/camiseta-blanca-frente.png",
+			"width": 1200,
+			"height": 1406
+		},
+		"image2": {
+			"link": "https://fdm-dev.s3.us-east-2.amazonaws.com/media/error-image-cdn/prueba/astronauta.jpg",
+			"width": 904,
+			"height": 1280
+		},
+		"image3": {
+			"link": "https://fdm-dev.s3.us-east-2.amazonaws.com/media/error-image-cdn/prueba/cicla.jpg",
+			"width": 904,
+			"height": 1280
+		},
+		"image4": {
+			"link": "https://fdm-dev.s3.us-east-2.amazonaws.com/media/error-image-cdn/prueba/circulos.jpg",
+			"width": 1280,
+			"height": 720
+		},
+		"image5": {
+			"link": "https://fdm-dev.s3.us-east-2.amazonaws.com/media/error-image-cdn/prueba/jake.jpg",
+			"width": 100,
+			"height": 100
+		}
 	}
 }]
